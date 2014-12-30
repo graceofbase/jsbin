@@ -1,0 +1,22 @@
+h1{
+  color: orange;
+  background-color: blue;
+  font-family: futura;
+  font-size: 50px;
+}
+
+p{
+  color: blue;
+  background-color: orange;
+  font-family: helvetica;
+  font-size: 30px
+}
+
+#secondHeader{
+  background-color: black;
+}
+
+#style2{
+  background-color: yellow;
+  font-family: arial;
+}
